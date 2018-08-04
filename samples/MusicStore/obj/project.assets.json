@@ -34605,18 +34605,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET\\samples\\MusicStore\\MusicStore.csproj",
+      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET-GIT\\samples\\MusicStore\\MusicStore.csproj",
       "projectName": "MusicStore",
-      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET\\samples\\MusicStore\\MusicStore.csproj",
+      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET-GIT\\samples\\MusicStore\\MusicStore.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET\\samples\\MusicStore\\obj\\",
+      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET-GIT\\samples\\MusicStore\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET\\NuGet.Config",
+        "C:\\Users\\logonrmlocal\\Downloads\\MusicStore-13NET-GIT\\NuGet.Config",
         "C:\\Users\\logonrmlocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
